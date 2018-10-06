@@ -1,0 +1,12 @@
+{
+	"server-address":"10.0.0.36",
+	
+	"window": {
+		"width":800,
+		"title":"PackNGo",
+		"height":600
+	},
+	
+	"version":"0.1"
+	
+	}
